@@ -25,3 +25,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eterance&theme=github_dark&langs_count=8&hide=Promela&layout=compact&bg_color=90,d7d2cc,304352&title_color=000&text_color=000&border_radius=8&locale=cn&card_width=320" />
 </a>
+
+## 站点
+
+个人博客：[Eterance 的小窝](https://blog.baldcoder.top/)
+
+工具站：[Eterance 的百宝箱](https://tools.eterance.com/)
