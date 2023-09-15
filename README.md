@@ -1,6 +1,6 @@
-### Hi there 👋
-
 简体中文 | [English](https://github.com/Eterance/Eterance/edit/main/README.en.md)
+
+### 欢迎！ 👋
 
 <!--
 **Eterance/Eterance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 个人数据
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eterance&show_icons=true&rank_icon=percentile&bg_color=30,d43f8d,0250c5&title_color=fff&text_color=fff&icon_color=fff&border_radius=8&locale=cn" />
