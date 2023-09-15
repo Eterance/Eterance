@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## Sites
 
-Blog: [Eterance's Blog](https://blog.baldcoder.top/)
+Blog: [Eterance's Blog](https://blog.baldcoder.top/) (Chinese Only)
 
 Tools: [Eterance's Toolbox](https://tools.eterance.com/)
 
