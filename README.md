@@ -1,4 +1,4 @@
-简体中文 | [English](https://github.com/Eterance/Eterance/edit/main/README.en.md)
+简体中文 | [English](https://github.com/Eterance/Eterance/blob/main/README.en.md)
 
 ### 欢迎！ 👋
 
